@@ -18,11 +18,10 @@ My biography is a landing page that describes who I am ,my background, interests
    3.You need to have a github account for you to clone and have the project in your local computer.
    
 # 4. Project setup instructions
-   1.open your github account.
-   
+   1.open your github account. 
    2.follow this link https://github.com/diellamutoni8/my-biography.git to go to the project.
    3.click on the the green button and copy the link given.
-   4.go to terminal and create folder
+   4.go to terminal and create folder.
    5.enter this command: git init , to initialize the git repository. 
    6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/my-biography.git
 # 5. See the project online
