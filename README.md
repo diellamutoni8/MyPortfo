@@ -19,6 +19,7 @@ My biography is a landing page that describes who I am ,my background, interests
    
 # 4. Project setup instructions
    1.open your github account.
+   
    2.follow this link https://github.com/diellamutoni8/my-biography.git to go to the project.
    3.click on the the green button and copy the link given.
    4.go to terminal and create folder
