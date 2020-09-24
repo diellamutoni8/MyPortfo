@@ -1,7 +1,7 @@
-# my-biography
+# myportfolio
 
 
-My biography is a landing page that describes who I am ,my background, interests, list of projects I made and contacts/address on how you can reach out to me.
+My Portfolio is a landing page that describes who I am ,my background, interests, list of projects I made and contacts/address on how you can reach out to me.
 
  # 1. Authors
  
