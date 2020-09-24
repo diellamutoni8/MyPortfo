@@ -37,4 +37,4 @@ My biography is a landing page that describes who I am ,my background, interests
 
 # 6. License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
